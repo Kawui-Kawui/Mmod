@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kawui_kawua_mod:items/pickaxeavtexture"
+  }
+}
